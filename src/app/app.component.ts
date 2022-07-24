@@ -10,6 +10,6 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     console.log('Hey this is the component!');
-    console.log('I need another message here');
+    console.log('I need another message here because branch-1 needs a message!');
   }
 }
