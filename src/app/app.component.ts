@@ -17,6 +17,8 @@ export class AppComponent implements OnInit {
     console.log('On to branch 4 commit 1');
     console.log('On to branch 5 commit 1');
     console.log('On to branch 5 commit 2');
+    console.log('On to branch 5 commit 4');
+    console.log('On to branch 5 commit 3');
 
 
   }
