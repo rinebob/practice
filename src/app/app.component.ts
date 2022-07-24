@@ -14,6 +14,7 @@ export class AppComponent implements OnInit {
     console.log('This message is in branch 2 dude...');
     console.log('Welcome to branch 3!!');
     console.log('Welcome to branch 3 commit 2');
+    console.log('On to branch 4 commit 1');
 
 
   }
