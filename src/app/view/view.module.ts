@@ -10,6 +10,7 @@ import { ViewComponent } from './view.component';
   ],
   imports: [
     CommonModule
-  ]
+  ],
+  exports: [ViewComponent],
 })
 export class ViewModule { }
