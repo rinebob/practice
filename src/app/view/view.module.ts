@@ -6,7 +6,7 @@ import { ViewComponent } from './view.component';
 
 @NgModule({
   declarations: [
-    ViewComponent
+    ViewComponent,
   ],
   imports: [
     CommonModule
