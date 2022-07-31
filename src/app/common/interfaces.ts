@@ -11,3 +11,9 @@ export interface Turkey {
     name: string;
     ugly: boolean;
 }
+
+export interface Schlemiel {
+    id: string;
+    name: string;
+    schlem: boolean;
+}
