@@ -17,3 +17,9 @@ export interface Schlemiel {
     name: string;
     schlem: boolean;
 }
+
+export interface Dweezil {
+    id: string;
+    name: string;
+    dweez: boolean;
+}
