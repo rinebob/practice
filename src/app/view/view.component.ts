@@ -5,7 +5,7 @@ import {DUDE, TURKEY, UGLY_TURKEY} from '../common/constants';
 @Component({
   selector: 'pr-view',
   templateUrl: './view.component.html',
-  styleUrls: ['./view.component.sass'],
+  styleUrls: ['./view.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class ViewComponent implements OnInit {
